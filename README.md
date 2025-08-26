@@ -1,5 +1,3 @@
-Here is a clean, link‑free version of the GitHub repository description, with no external references.
-
 Project: Global Food Production Analysis (1961–2023)  
 This repository showcases an interactive Power BI report analyzing multi‑decade trends in global crop production, with visuals that highlight time‑series growth, regional segmentation, and commodity comparisons for decision‑makers and analysts.
 
